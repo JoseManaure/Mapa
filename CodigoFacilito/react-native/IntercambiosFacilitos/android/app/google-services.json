@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156145031690",
+    "project_id": "intercambioscursosfacili-c728d",
+    "storage_bucket": "intercambioscursosfacili-c728d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156145031690:android:f9fd9497e63a0305e29df3",
+        "android_client_info": {
+          "package_name": "com.codigofacilito.intercambiosfacilitoscursos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156145031690-1n9p20geu0rlgd3ks8vpdjf919e1c8ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeF-U-wSYIIU6Muz1Qjxw76LPjJYtcP6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156145031690-1n9p20geu0rlgd3ks8vpdjf919e1c8ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
